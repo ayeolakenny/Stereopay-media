@@ -41,7 +41,7 @@ Make sure you have node installed on your machine
 
 2. Clone the repo
    ```sh
-   git clone https://github.com/your_username_/Project-Name.git
+   git clone  https://github.com/ayeolakenny/Stereopay-media.git
    ```
 3. Install NPM packages
    ```sh
